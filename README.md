@@ -9,9 +9,8 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 ### How to run the application instruction
 #### Requirements
 * Python 3.7
-* pip (insert version)
-* Virtual Environment (insert version)
-
+* pip _(insert version)_
+* Virtual Environment _(insert version)_
 #### Run application
 TBD
 
@@ -21,43 +20,42 @@ TBD
 #### Tests
 TBD
 
-### Application concept: (Aary)
+### Application concept:
 We are building a virtual version of the popular board game Monopoly, to be played by between 2 and 4 players through python. During the quarantine, this game is a fun but socially distanced way to socialize with friends. Using randomness generators and graphical interfaces within python, we can create a virtual simulation of the game that stays true to the original while being quicker and easier.
 
 ### Stakeholders
-Players who are...
+Players who are into classic board games. New players who are looking for digital board games to play and also spend time with their respective olayers.  
 
-### User stories (christine)
-1. User welcome page - 5 days
-As a user, this is the first page once i open the application.
+### User stories 
+1. **User welcome page** - priority _##_ - _#_ days
+   - As a user I can see a welcome page when I first logged on.  
+2. **Set number of players** - priority _##_ - _#_ days
+   - As a user I can set the number of players.  
+3. **Roll dice** - priority _##_ - _#_ days
+   - As a user, I can roll the dice and move around the board. 
+4. **Choose character token** - priority _##_ - _#_ days
+   - As a user, I am able to pick character to represent me.  
+5. **Banker selection** - priority _##_ - _#_ days
+   - As a user, I am able to create bank and designate player as banker. 
 
-2. User Account Registeration - 7 days
-As the users, i can register and log in and have my record stored in my account.
+#### Decomposition of user stories 
 
-3. Game page - 14 days
-As a user, I am able to play monopoly with 2-3 other users (4 in total) through this page. 
+##### _xx_ days,priority _##_
+1. As a user, I can see a welcome page when I first logged on.  The welcome page allows me to sign in or register. 
 
-4. Dashboard for user - 5 days
-As a user, i can see my record whinin the page.
-
-5. Database - 10 days
-As a developer, i want to collect info from users, to better undertand the target user fro further development.
-
-
-#### Decomposition of user stories (Pete)
- # days, priority ##
-1. As a user, after the game start I MUST be able to enter the number of players [between 2and 4]. 
+##### _xx_ days, priority _##_
+2. As a user, after the game start I MUST be able to enter the number of players [between 2 and 4]. 
 If I press Cancel, then I MUST be able to exit the game.
 
-# days, priority ##
-2. As a player, I must be allowed to roll the dice and move my characters around the board, clockwise. 
+##### _xx_ days, priority _##_
+3. As a player, I must be allowed to roll the dice and move my characters around the board, clockwise. 
 Roll the dice to see who goes first. This highest roll begins the game 
 
-# days, priority ##
-3. A player I must be able to pick or choose a token to represent me on the board.
+##### _xx_ days, priority _##_
+4. A player I must be able to pick or choose a token to represent me on the board.
 
-# days, priority ##
-4. As a user I must be able to create a bank and identify one player to be the banker. 
+##### _xx_ days, priority _##_
+5. As a user I must be able to create a bank and identify one player to be the banker. 
 
 #### Milestone 1.0
 1. TBD
