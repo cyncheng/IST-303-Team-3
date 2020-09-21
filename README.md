@@ -37,19 +37,19 @@ Players who are...
 5. User story 5 - priority ## - # days
 
 #### Decomposition of user stories (Pete)
+ # days, priority ##
 1. As a user, after the game start I MUST be able to enter the number of players [between 2and 4]. 
 If I press Cancel, then I MUST be able to exit the game.
-# days, priority ##
 
+# days, priority ##
 2. As a player, I must be allowed to roll the dice and move my characters around the board, clockwise. 
 Roll the dice to see who goes first. This highest roll begins the game 
-# days, priority ##
 
+# days, priority ##
 3. A player I must be able to pick or choose a token to represent me on the board.
-# days, priority ##
 
-4.As a user I must be able to create a bank and identify one player to be the banker
 # days, priority ##
+4. As a user I must be able to create a bank and identify one player to be the banker. 
 
 #### Milestone 1.0
 1. TBD
