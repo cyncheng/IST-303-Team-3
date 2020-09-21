@@ -52,10 +52,10 @@ If I press Cancel, then I MUST be able to exit the game.
 Roll the dice to see who goes first. This highest roll begins the game 
 
 ##### _xx_ days, priority _##_
-4. A player I must be able to pick or choose a token to represent me on the board.
+4. As a user, I must be able to pick or choose a token to represent me on the board.
 
 ##### _xx_ days, priority _##_
-5. As a user I must be able to create a bank and identify one player to be the banker. 
+5. As a user, I must be able to create a bank and identify one player to be the banker. 
 
 #### Milestone 1.0
 1. TBD
