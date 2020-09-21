@@ -28,19 +28,19 @@ We are building a virtual version of the popular board game Monopoly, to be play
 Players who are...
 
 ### User stories (christine)
-1. User welcome page - 5 days ## 
+1. User welcome page - 5 days
 As a user, this is the first page once i open the application.
 
-2. User Account Registeration - 7 days ## 
+2. User Account Registeration - 7 days
 As the users, i can register and log in and have my record stored in my account.
 
-3. Game page - 14 days ## 
+3. Game page - 14 days
 As a user, I am able to play monopoly with 2-3 other users (4 in total) through this page. 
 
-4. Dashboard for user - 5 days ## 
+4. Dashboard for user - 5 days
 As a user, i can see my record whinin the page.
 
-5. Database - 10 days ## 
+5. Database - 10 days
 As a developer, i want to collect info from users, to better undertand the target user fro further development.
 
 
