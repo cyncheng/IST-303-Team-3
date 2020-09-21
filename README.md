@@ -21,14 +21,14 @@ TBD
 #### Tests
 TBD
 
-### Application concept:
+### Application concept: (Aary)
 A board game that is capable of handling multiple players...
 
 ### Stakeholders
 Players who are...
 
-### User stories
-1. User story 1 - priority ## - # days
+### User stories (christine)
+1. User welcome page  ## - # days
    - As a user I can...
 2. User story 2 - priority ## - # days
    - As a user I can...
@@ -36,7 +36,7 @@ Players who are...
 4. User story 4 - priority ## - # days
 5. User story 5 - priority ## - # days
 
-#### Decomposition of user stories
+#### Decomposition of user stories (Pete)
 1. As a user I can...# days, priority ##
    - TBD
 2. As a user I can...# days, priority ##
