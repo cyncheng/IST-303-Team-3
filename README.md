@@ -28,15 +28,15 @@ Players who are into classic board games. New players who are looking for digita
 
 ### User stories 
 1. **User welcome page** - priority _##_ - _#_ days
-   - As a user I can see a welcome page when I first logged on.  
+   - As a user, I can see a welcome page.  
 2. **Set number of players** - priority _##_ - _#_ days
-   - As a user I can set the number of players.  
+   - As a user, I can set the number of players.  
 3. **Roll dice** - priority _##_ - _#_ days
    - As a user, I can roll the dice and move around the board. 
 4. **Choose character token** - priority _##_ - _#_ days
-   - As a user, I am able to pick character to represent me.  
+   - As a user, I am able to pick character.  
 5. **Banker selection** - priority _##_ - _#_ days
-   - As a user, I am able to create bank and designate player as banker. 
+   - As a user, I am able to create bank. 
 
 #### Decomposition of user stories 
 
