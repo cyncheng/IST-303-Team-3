@@ -1,7 +1,7 @@
 # **IST-303-Team-C-Project**
 
 ### Team name
-TBD
+Monopoly Masters
 
 ### Team members
 Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
