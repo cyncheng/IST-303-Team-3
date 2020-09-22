@@ -40,7 +40,7 @@ Players who are into classic board games. New players who are looking for digita
 
 #### Decomposition of user stories 
 
-##### _xx_ days,priority _##_
+##### 5 days,priority 10
 1. As a user, I can see a welcome page when I first logged on.  The welcome page allows me to sign in or register. 
 
 ##### _xx_ days, priority _##_
@@ -48,7 +48,7 @@ Players who are into classic board games. New players who are looking for digita
 If I press Cancel, then I MUST be able to exit the game.
 
 ##### _xx_ days, priority _##_
-3. As a player, I must be allowed to roll the dice and move my characters around the board, clockwise. 
+3. As a player, I must be allowed to roll the dice and move my characters around the board, clockwise.
 Roll the dice to see who goes first. This highest roll begins the game 
 
 ##### _xx_ days, priority _##_
