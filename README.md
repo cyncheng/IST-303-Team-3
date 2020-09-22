@@ -32,7 +32,7 @@ Players who are into classic board games. New players who are looking for digita
    - As a user, I can see a welcome page.  
 2. **Set number of players** - priority 20 - 10 days
    - As a user, I can set the number of players.  
-3. **Roll dice** - priority 20-  - 5 days
+3. **Roll dice** - priority 20 - 5 days
    - As a user, I can roll the dice and move around the board. 
 4. **Choose character token** - priority 40 - 5 days
    - As a user, I am able to pick character.  
