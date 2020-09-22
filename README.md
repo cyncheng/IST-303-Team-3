@@ -40,7 +40,7 @@ Players who are into classic board games. New players who are looking for digita
 
 #### Decomposition of user stories 
 
-##### 5 days,priority 10
+##### 5 days - priority 10
 1. As a user, I can see a welcome page when I first logged on.  The welcome page allows me to sign in or register. 
 
 ##### _xx_ days, priority _##_
