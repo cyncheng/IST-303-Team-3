@@ -27,15 +27,15 @@ We are building a virtual version of the popular board game Monopoly, to be play
 Players who are into classic board games. New players who are looking for digital board games to play and also spend time with their friends.  
 
 ### User stories 
-1. **User welcome page** - priority _##_ - _#_ days
+1. **User welcome page** - priority 10 - 5 days
    - As a user, I can see a welcome page.  
-2. **Set number of players** - priority _##_ - _#_ days
+2. **Set number of players** - priority 20 - 10 days
    - As a user, I can set the number of players.  
-3. **Roll dice** - priority _##_ - _#_ days
+3. **Roll dice** - priority 20-  - 5 days
    - As a user, I can roll the dice and move around the board. 
-4. **Choose character token** - priority _##_ - _#_ days
+4. **Choose character token** - priority 40 - 5 days
    - As a user, I am able to pick character.  
-5. **Banker selection** - priority _##_ - _#_ days
+5. **Banker selection** - priority 40 - 5 days
    - As a user, I am able to create bank. 
 
 #### Decomposition of user stories 
@@ -53,7 +53,7 @@ Roll the dice to see who goes first. This highest roll begins the game
 ##### 5 days, priority 40
 4. As a user, I must be able to pick or choose a token to represent me on the board.
 
-##### _xx_ days, priority _##_
+##### 5 days, priority 40
 5. As a user, I must be able to create a bank and identify one player to be the banker. 
 
 #### Milestone 1.0
