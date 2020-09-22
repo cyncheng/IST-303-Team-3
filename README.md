@@ -19,7 +19,7 @@ TBD
 TBD
 
 #### Tests
-TBD
+Run with pytest
 
 ### Application concept:
 We are building a virtual version of the popular board game Monopoly, to be played by between 2 and 4 players through python. During the quarantine, this game is a fun but socially distanced way to socialize with friends. Using randomness generators and graphical interfaces within python, we can create a virtual simulation of the game that stays true to the original while being quicker and easier.
