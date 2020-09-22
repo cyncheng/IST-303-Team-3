@@ -9,8 +9,9 @@ Pete Buwembo, Cindy Cheng, Christine Kao, Shih Chieh Lin and Aary Sheoran
 ### How to run the application instruction
 #### Requirements
 * Python 3.7
-* pip _(insert version)_
-* Virtual Environment _(insert version)_
+* pip 19.0.3
+* Virtual Environment 16.4.0
+
 #### Run application
 TBD
 
